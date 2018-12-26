@@ -21,3 +21,5 @@ $ url=http://blog.alexellis.io/ go run app.go
 
 $ url=http://blog.alexellis.io/golang-json-api-client/ go run app.go
 {"internal":17,"external":15}
+
+Add FROM SCRATCH
